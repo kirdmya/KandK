@@ -5,6 +5,7 @@
 
 
 def begin():
+    print('+')
 
 
 
